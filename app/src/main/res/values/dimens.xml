@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_padding">5dp</dimen>
+    <dimen name="item_height">120dp</dimen>
+    <dimen name="item_title_size">16sp</dimen>
+    <dimen name="item_author_size">12sp</dimen>
+    <dimen name="item_margin">5dp</dimen>
+    <dimen name="item_image_width">80dp</dimen>
+    <dimen name="item_image_height">90dp</dimen>
+    <dimen name="tab_min_width">50dp</dimen>
+</resources>
